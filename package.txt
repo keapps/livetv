@@ -1,1 +1,8 @@
 com.mobdro.android
+com.livetv.android.apps.uktvnow.firestick
+com.swift.stream
+com.solid.streamz
+com.livenet.iptv
+com.edoctoriptv2
+com.showsport_tv.showsporttv
+com.xtream_codes.teamexpat
