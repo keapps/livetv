@@ -6,3 +6,4 @@ com.livenet.iptv
 com.edoctoriptv2
 com.showsport_tv.showsporttv
 com.xtream_codes.teamexpat
+com.xtream.ptvsport
