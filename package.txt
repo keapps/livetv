@@ -3,7 +3,7 @@ com.livetv.android.apps.uktvnow.firestick
 com.swift.stream
 com.solid.streamz
 com.livenet.iptv
-com.edoctoriptv2
+com.snappy.streamz
 com.showsport_tv.showsporttv
 com.xtream_codes.teamexpat
 com.xtream.ptvsport
