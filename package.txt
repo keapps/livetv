@@ -1,6 +1,6 @@
 com.mobdro.android
 com.livetv.android.apps.uktvnow.firestick
-com.swift.stream
+com.swift.streamz
 com.solid.streamz
 com.live.androidnettv
 com.snappy.streamz
