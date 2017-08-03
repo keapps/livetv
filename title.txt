@@ -6,5 +6,3 @@ Live netTV
 SnappyStreams
 Show Live Sport
 TeamExpat 
-PTV Sport
-ECG TV
