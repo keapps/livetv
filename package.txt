@@ -7,3 +7,4 @@ com.snappy.streamz
 com.showsport_tv.showsporttv
 com.xtream_codes.teamexpat
 com.miezuu.geostreamz
+com.androidtv.app
