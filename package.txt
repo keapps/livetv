@@ -8,3 +8,4 @@ com.showsport_tv.showsporttv
 com.xtream_codes.teamexpat
 com.miezuu.geostreamz
 com.androidtv.app
+com.th3proapp.wawasport
