@@ -10,3 +10,5 @@ com.miezuu.geostreamz
 com.androidtv.app
 com.th3proapp.wawasport
 com.i4pro.liveL
+com.getstream.minh.getstream
+com.redbox.tv
