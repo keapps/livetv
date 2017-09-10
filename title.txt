@@ -10,5 +10,5 @@ Geo Streamz
 Genius Stream
 Wawa Sport TV
 Live Lounge
-P2P Live TV
+P2P Live TV "use VPN Torrents"
 RedBox TV
