@@ -3,12 +3,12 @@ UKTVnow
 Switfstreams 1.2
 RD Sports 1.0
 Live netTV
-SnappyStreams
+SnappyStreams 1.1
 Show Live Sport
 TeamExpat 
-Geo Streamz
+Geo Streamz 1.0
 Genius Stream
 Wawa Sport TV
 Live Lounge
 P2P Live TV "use VPN Torrents"
-RedBox TV
+RedBox TV 1.0
