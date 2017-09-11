@@ -1,7 +1,7 @@
 Mobdro
 UKTVnow
-Switfstreams
-RD Sports 
+Switfstreams 1.2
+RD Sports 1.0
 Live netTV
 SnappyStreams
 Show Live Sport
