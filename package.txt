@@ -4,11 +4,11 @@ com.swift.streamz
 com.goyal.website2apk
 com.live.androidnettv
 com.snappy.streamz
-com.showsport_tv.showsporttv
+
 com.xtream_codes.teamexpat
 com.miezuu.geostreamz
 com.androidtv.app
-com.th3proapp.wawasport
+
 com.i4pro.liveL
 com.getstream.minh.getstream
 com.redbox.tv
