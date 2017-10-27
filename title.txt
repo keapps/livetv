@@ -12,3 +12,4 @@ Genius Stream
 Live Lounge 5.0.8 
 P2P Live TV "use VPN Torrents"
 RedBox TV 1.0
+Easy Live TV 2.0
