@@ -12,3 +12,4 @@ com.androidtv.app
 com.i4pro.liveL
 com.getstream.minh.getstream
 com.redbox.tv
+com.erezislina.app
