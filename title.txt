@@ -13,3 +13,9 @@ Live Lounge 5.0.8
 P2P Live TV "use VPN Torrents"
 RedBox TV 1.0
 Easy Live TV 2.0
+CTV News GO 1.4.2
+City Video 3.2.9
+Sportsnet 2.7.4
+CTV Go 2.3.1
+Global Go 1.8.1
+CBC TV 2.1.5
