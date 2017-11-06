@@ -13,3 +13,9 @@ com.i4pro.liveL
 com.getstream.minh.getstream
 com.redbox.tv
 com.erezislina.app
+ca.bellmedia.ctvnews
+com.rogers.citytv.phone
+com.rogers.sportsnet.sportsnet
+ca.ctv.ctvgo
+com.shawmedia.smglobal
+ca.cbc.android.cbctv
