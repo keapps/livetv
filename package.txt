@@ -19,3 +19,4 @@ com.rogers.sportsnet.sportsnet
 ca.ctv.ctvgo
 com.shawmedia.smglobal
 ca.cbc.android.cbctv
+com.tvplayerlatino
