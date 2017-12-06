@@ -11,7 +11,7 @@ Genius Stream
 USTV Pro 4.94
 Live Lounge 5.0.8 
 P2P Live TV "use VPN Torrents"
-RedBox TV 1.0
+RedBox TV 1.2
 Easy Live TV 2.0
 CTV News GO 1.4.2
 City Video 3.2.9
