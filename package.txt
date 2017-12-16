@@ -20,3 +20,4 @@ ca.ctv.ctvgo
 com.shawmedia.smglobal
 ca.cbc.android.cbctv
 com.tvplayerlatino
+com.sports.app.caststreams
