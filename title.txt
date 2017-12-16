@@ -20,3 +20,4 @@ CTV Go 2.3.1
 Global Go 1.8.1
 CBC TV 2.1.5
 Player Latino 1.7.6
+Caststream 5.2.2
