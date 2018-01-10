@@ -2,7 +2,7 @@ Mobdro 2.0.56
 UKTVnow 7.9
 Switfstreams 1.2
 RD Sports 1.0
-Live netTV 4.5.1
+Live netTV 4.6
 SnappyStreams 1.1
 UK TV Pro 4.83
 TeamExpat 
