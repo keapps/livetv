@@ -21,3 +21,4 @@ com.shawmedia.smglobal
 ca.cbc.android.cbctv
 com.tvplayerlatino
 com.sports.app.caststreams
+com.media.venom
