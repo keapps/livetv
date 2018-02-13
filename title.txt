@@ -1,5 +1,5 @@
 Mobdro 2.0.56
-UKTVnow 7.9
+UKTVnow 8.16
 Switfstreams 1.2
 RD Sports 1.0
 Live netTV 4.6
