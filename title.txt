@@ -1,4 +1,4 @@
-Mobdro 2.0.56
+Mobdro 2.0.62
 UKTVnow 8.16
 Switfstreams 1.2
 RD Sports 1.0
