@@ -1,2 +1,2 @@
-closing
+org.ghostware.ghostsupport
 org.ghost.store
